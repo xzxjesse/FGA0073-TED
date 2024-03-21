@@ -11,10 +11,10 @@ senha no moodle: TED1_1_2024</br>
 ->permitido A4 com anotações e assinatura
 
 **Datas:**
-> p1: 02/05
-simulado p2: 21/06
-> p2: 28/06
-ps: 03/07 -> obrigatoriamente vai substituir a menor nota, todo o conteúdo do semestre
+> p1: 02/05</br>
+simulado p2: 21/06</br>
+> p2: 28/06</br>
+ps: 03/07 -> obrigatoriamente vai substituir a menor nota, todo o conteúdo do semestre</br>
 
 **Software de simulação:**
 > Circuit Maker
