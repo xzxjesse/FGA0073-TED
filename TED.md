@@ -2,7 +2,7 @@
 **TEORIA DE ELETRÔNICA DIGITAL 1**
 
 ## Ambientação
-senha no moodle: TED1_1_2024
+senha no moodle: TED1_1_2024</br>
 **Metodologia:**
 > slides no moodle e aulas expositivas e com exercicios em sala e casa
 
