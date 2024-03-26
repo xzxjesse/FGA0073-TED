@@ -24,11 +24,11 @@ Circuitos com memória que usam portas lógicas para realizar operações lógic
 - Assíncronos
 
 ### VHSIC
-É um circuito digital integrado que é projetado para operar em velocidades muito altas.</br>
+É um circuito digital integrado que é projetado para operar em velocidades muito altas.
 
-####VHDL
-Linguagem dedicada a descrição de hardware para modelar sistemas digitais VHSIC</br>
-> serve para documentar, descrever, sintetizar, simular, testar, verificar e compilar</br>
+#### VHDL
+Linguagem dedicada a descrição de hardware para modelar sistemas digitais VHSIC
+> serve para documentar, descrever, sintetizar, simular, testar, verificar e compilar
 
 ### FGPA
 É um circuito integrado que  contem blocos logicos que podem ser configurados para concepção de circuitos digitais por um projetista após a fabricação.
