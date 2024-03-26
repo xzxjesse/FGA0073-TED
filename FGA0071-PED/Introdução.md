@@ -1,6 +1,3 @@
-# FGA0071
-**PRÁTICA DE ELETRÔNICA DIGITAL 1**
- 
 ## Eletronica Digital
 Ciência que estuda e aplica os sistemas e circuitos que usam apenas dois estados possíveis, ou dois **níveis de tensão**, correntes ou bits
 
