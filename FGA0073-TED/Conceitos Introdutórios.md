@@ -23,6 +23,7 @@ Tem valor **posicional**.
 
 > MSD-> Most Significant Digit
 > LSD-> Least Significant Digit
+
 | MSD |     |     |     |     |     |     | LSD |
 | 2   | 7   | 4   | 5   |  ,  | 2   | 1   | 4   |
 |-----|-----|-----|-----|-----|-----|-----|-----|
