@@ -1,7 +1,7 @@
 # Códigos
 Podem ser numéricos ou alfanuméricos
 
-## BCD
+## BCD 8421
 > Decimal codificado em binário - binary coded decimal
 
 O código BCD representa cada dígito de um número decimal por um número binário de 4 bits.
@@ -55,17 +55,6 @@ Decimal | BCD
 7 | 1010
 8 | 1011
 9 | 1100
-10 | 1101
-11 | 1110
-12 | 1111
-13 | 0000
-14 | 0001
-15 | 0010
-16 | 0011
-17 | 0100
-18 | 0101
-19 | 0110
-20 | 0111
 
 * Esse código é obtido somando-se 3 ao valor binário natural do dígito decimal.
 * Para converter um número decimal maior que 20, basta converter cada dígito decimal individualmente e concatenar os resultados.
