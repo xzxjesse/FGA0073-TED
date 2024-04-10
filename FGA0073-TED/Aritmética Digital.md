@@ -134,7 +134,6 @@ representa números muito grandes ou muito pequenos sem aumento de bits
 |----------|-------|---------------|--------------|
 | simples  |   1   |       8       |      23      |
 | 32 bits  | bit31 |   bit30-23    |  bit22-00    |
-|----------|-------|---------------|--------------|
 | dupla    |   1   |      11       |      52      |
 | 64 bits  | bit63 |   bit62-52    |  bit51-00    |
 
