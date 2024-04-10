@@ -1,5 +1,7 @@
 # Aritmética Digital: Operações e Circuitos
 
+# parte 1
+
 ## Adição binária
 0+0=0</br>
 1+0=1</br>
@@ -27,12 +29,14 @@ Bit de sinal:</br>
 positivo - </br>
 negativo - 1</br>
 </br>
+
 **Complemento de 1**</br>
 Substituindo cada bit do número pelo seu complemento, 0 por 1 e 1 por 0</br>
 </br>
+
 **Complemento de 2**</br>
 É a soma de 1 ao complemento de 1 do número binário na posição do bit menos significativo</br>
-</br>
+
 - exemplo:
 101101 binário</br>
 010010 complemento de 1</br>
@@ -41,6 +45,7 @@ ______</br>
 010011 complemento de 2 do número binário original</br>
 </br>
 - positivo: é representado na forma binária direta e um bit de sinal 0 é colocado na frente do MSB
+</br>
 - negativo: é representado na forma de complemento de 2 e um bit de sinal 1 é colocado na frente do MSB
 </br>
 exemplo:</br>
@@ -50,6 +55,7 @@ exemplo:</br>
  1  010011</br>
 (-) complemento a 2</br>
 </br>
+
 **Extensão de sinal** </br>
 sistemas tem registradores múltiplos de pres de 4 bits</br>
 em 8 bits:</br>
@@ -73,4 +79,67 @@ conversão de sinais</br>
 -9 = 10111 complemento a 2 (negar)</br>
 +9 = 01001 negar novamente</br>
 
-**** correção representação binaria com complemento 2
+# parte 2
+
+## Adição e subtração no sistema de complemento de 2
+
+1. determinar o complemento de 2 do número negativo
+2. realizar a soma
+
+- desconsiderar possíveis estouros de bits
+
+### formas de realizar:
+1. notação com bit de sinal
+- representar número em binário puro
+- verificar quantidade de bits
+- tratar números negativos (complemento de 2)
+- realizar soma binária
+- desconsiderar estouro de bits
+- verificar bit de sinal do resultado
+    resultado negativo: determinar o complemento de 2
+
+exemplo, considerando 8 bits: </br>
++ 32 = 00100000 </br>
+- 45 = 01010011 </br>
+________________ </br>
+       01110011 </br>
+       10001100 </br>
+             +1 </br>
+________________ </br>
+        1001101
+
+2. notação sem bit de sinal
+- representar os números em binário puro
+- verificar a quantidade de bits
+- tratar números negativos (complemento de 2)
+- realizar soma binária
+- desconsiderar estouro de bits
+- verificar sinal do resultado
+    resultado negativo: determinar o complemento de 2
+
+**->COMPLEMENTAR 2 NESSE CASO SERIA ADICIONAR 1 AO INVERSO OU TIRAR 1 DO INVERSO?** 
+
+## Overflow aritmético
+acontece apenas quando dois números negativos ou dois positivos são somados, e sempre vão resultar em sinal e magnitude incorretas
+
+- Como identificar: Examinando o bit de sinal do resultado e comparando com o do resultado
+
+## Representação em ponto flutuante
+representa números muito grandes ou muito pequenos sem aumento de bits
+
+- mantissa: magnitude do número
+- expoente: número de casas decimais que a virgula é movida
+
+| precisão | sinal | expoente(+/-) | significando |
+|----------|-------|---------------|--------------|
+| simples  |   1   |       8       |      23      |
+| 32 bits  | bit31 |   bit30-23    |  bit22-00    |
+|----------|-------|---------------|--------------|
+| dupla    |   1   |      11       |      52      |
+| 64 bits  | bit63 |   bit62-52    |  bit51-00    |
+
+## Adição em BCD
+
+1. Usando a adição binária comum, come os grupos de código BCD para cada posição de dígito
+2. Para as posições onde a soma é menor ou igual a 9, nenhuma correção é necessária. O resultado está na forma BCD apropriada
+3. Quando a soma dos dois dígitos é maior que 9, o fator de correção 0110 deve ser adicionado para obter o resultado na forma BCD correta. Este caso sempre produz um carry para a próxima posição, seja da adição original, seja da adição de correção
