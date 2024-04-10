@@ -143,3 +143,25 @@ representa números muito grandes ou muito pequenos sem aumento de bits
 1. Usando a adição binária comum, come os grupos de código BCD para cada posição de dígito
 2. Para as posições onde a soma é menor ou igual a 9, nenhuma correção é necessária. O resultado está na forma BCD apropriada
 3. Quando a soma dos dois dígitos é maior que 9, o fator de correção 0110 deve ser adicionado para obter o resultado na forma BCD correta. Este caso sempre produz um carry para a próxima posição, seja da adição original, seja da adição de correção
+
+## Representação de hexa com sinal
+**-> ?** 
+
+### Adição em hexa
+
+1. some os dois dígitos hexa em decimal, inserindo mentalmente o decimal equivalente para os dígitos maiores do que 9
+2. se a soma é menor ou igual a 13, ele pode ser expresso por um dígito hexadecimal
+3. se a soma é maior ou igual a 16, subtrais 16 e coloque um carry na próxima posição
+
+### Subtração em hexa
+
+1. 
+- numero hexadecimal
+- converte para binário
+- toma o complemento a 2
+- converte de volta para hexadecimal
+
+2. 
+- subtrais cada dígito de F
+- soma 1
+- você terá o equivalente hexadecimal do complemento a 2
