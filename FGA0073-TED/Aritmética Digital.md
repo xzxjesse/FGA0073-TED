@@ -40,7 +40,7 @@ Substituindo cada bit do número pelo seu complemento, 0 por 1 e 1 por 0</br>
 - exemplo:
 101101 binário</br>
 010010 complemento de 1</br>
-    +1 adiciona 1 para formar o complemento de 2</br>
+____+1 adiciona 1 para formar o complemento de 2</br>
 ______</br>
 010011 complemento de 2 do número binário original</br>
 </br>
@@ -98,16 +98,6 @@ conversão de sinais</br>
 - verificar bit de sinal do resultado
     resultado negativo: determinar o complemento de 2
 
-exemplo, considerando 8 bits: </br>
-+ 32 = 00100000 </br>
-- 45 = 01010011 </br>
-________________ </br>
-       01110011 </br>
-       10001100 </br>
-             +1 </br>
-________________ </br>
-        1001101
-
 2. notação sem bit de sinal
 - representar os números em binário puro
 - verificar a quantidade de bits
@@ -122,9 +112,12 @@ ________________ </br>
 ## Overflow aritmético
 acontece apenas quando dois números negativos ou dois positivos são somados, e sempre vão resultar em sinal e magnitude incorretas
 
+> estouro de bits é diferente de overflow aritmético
+
 - Como identificar: Examinando o bit de sinal do resultado e comparando com o do resultado
 
 ## Representação em ponto flutuante
+> é um extra do conteúdo
 representa números muito grandes ou muito pequenos sem aumento de bits
 
 - mantissa: magnitude do número
@@ -132,9 +125,9 @@ representa números muito grandes ou muito pequenos sem aumento de bits
 
 | precisão | sinal | expoente(+/-) | significando |
 |----------|-------|---------------|--------------|
-| simples  |   1   |       8       |      23      |
+| **simples**  |   1   |       8       |      23      |
 | 32 bits  | bit31 |   bit30-23    |  bit22-00    |
-| dupla    |   1   |      11       |      52      |
+| **dupla**    |   1   |      11       |      52      |
 | 64 bits  | bit63 |   bit62-52    |  bit51-00    |
 
 ## Adição em BCD
