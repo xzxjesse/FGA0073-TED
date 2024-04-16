@@ -184,3 +184,45 @@ MOSFETs são transistores de efeito de campo onde a condução de corrente é co
 - Utiliza uma **combinação de transistores NMOS e PMOS** ligados em paralelo (para a rede pull-down) e em série (para a rede pull-up).
 - Quando pelo menos uma entrada está em 1, o caminho de corrente pull-up é habilitado, forçando a saída a 0.
 - Somente quando ambas as entradas estão em 0, o caminho pull-down é ativado, conectando a saída à terra (0).
+
+## parte 2
+
+### Representação dde circuitos e expressões booleanas
+
+**Procedimento para projetar um circuito**
+1. Problema
+2. Análise do problema
+3. Tabela verdade
+4. Expressão lógica
+5. Circuito lógico
+
+
+**Descrevendo circuitos lógicos algebricamente**
+- **Procedência de operador:** para evitar confusão é necessário entender a prioridade de operações (AND -> OR), ou usar parênteses.
+
+**Tabelas verdade obtidas de expressões booleanas**
+- Permite que se analise uma porta ou uma combinação lógica de cada vez;
+- Permite que se confira facilmente o trabalho;
+- Quando o trabalho se encerra, dispõem de uma tabela que ajuda bastante a verificação de erros do circuito lógico.
+
+**Procedimento:**
+1. Montar o quadro de possibilidades
+2. Montar colunas para os vários membros da expressão
+3. Preenchemos essas colunas com os resultados
+4. Montar uma coluna para os resultados finais
+5. Preencher essa coluna com oss resultados finais
+
+**Exemplo:** x = ĀB + BC
+
+| A | B | C | Ā | ĀB | BC | ĀB+BC |
+|---|---|---|---|----|----|-------|
+| 0 | 0 | 0 | 1 |  1 |  0 |   0   |
+| 0 | 0 | 1 | 1 |  0 |  0 |   0   |
+| 0 | 1 | 0 | 1 |  0 |  0 |   0   |
+| 0 | 1 | 1 | 1 |  1 |  1 |   1   |
+| 1 | 0 | 0 | 0 |  0 |  0 |   0   |
+| 1 | 0 | 1 | 0 |  0 |  0 |   0   |
+| 1 | 1 | 0 | 0 |  0 |  0 |   0   |
+| 1 | 1 | 1 | 0 |  1 |  1 |   1   |
+
+[Exercícios](https://docs.google.com/spreadsheets/d/1hrmsPwJVw_XwoI_RSojuriU9ucpwFBRE-OfaqmjoqpY/edit?usp=sharing)
