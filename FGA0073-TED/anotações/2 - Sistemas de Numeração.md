@@ -1,4 +1,4 @@
-# Sistemas de numeração e códigos
+# Sistemas de numeração
 
 ## Sistema de numeração decimal
 460,13₇ 
@@ -118,16 +118,15 @@ busca o bit menos significativo, caso sobrem bits deve-se adicionar 0, e convert
 </br>
 0 0 1 1</br>
 8 4 2 1</br>
-0x8 + 0x4 + 1x2 + 1x1</br>
-= 3</br>
-</br>
+0x8 + 0x4 + 1x2 + 1x1 = 3</br>
+
 1 0 1 0</br>
 8 4 2 1</br>
 1x8 + 1x2 = A</br>
+
 0 1 1 0 </br>
 8 4 2 1</br>
-1x4 + 1x2</br>
-= 6</br>
+1x4 + 1x2 = 6</br>
 </br>
 =3A6
 

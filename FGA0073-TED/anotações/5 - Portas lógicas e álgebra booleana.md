@@ -187,7 +187,7 @@ MOSFETs são transistores de efeito de campo onde a condução de corrente é co
 
 ## parte 2
 
-### Representação dde circuitos e expressões booleanas
+### Representação de circuitos e expressões booleanas
 
 **Procedimento para projetar um circuito**
 1. Problema
@@ -197,13 +197,14 @@ MOSFETs são transistores de efeito de campo onde a condução de corrente é co
 5. Circuito lógico
 
 
-**Descrevendo circuitos lógicos algebricamente**
-- **Procedência de operador:** para evitar confusão é necessário entender a prioridade de operações (AND -> OR), ou usar parênteses.
+### Descrevendo circuitos lógicos algebricamente
+
+**Procedência de operador:** para evitar confusão é necessário entender a prioridade de operações (AND -> OR), ou usar parênteses.
 
 **Tabelas verdade obtidas de expressões booleanas**
 - Permite que se analise uma porta ou uma combinação lógica de cada vez;
 - Permite que se confira facilmente o trabalho;
-- Quando o trabalho se encerra, dispõem de uma tabela que ajuda bastante a verificação de erros do circuito lógico.
+- Quando o trabalho se encerra, dispõem de uma tabela que ajuda a verificação de erros do circuito lógico.
 
 **Procedimento:**
 1. Montar o quadro de possibilidades

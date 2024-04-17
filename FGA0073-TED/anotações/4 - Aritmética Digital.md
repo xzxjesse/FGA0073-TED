@@ -26,7 +26,7 @@ Segue o modelo da operação decimal, entretanto, só resulta em 0s e 1s
 ## Representação de números com sinal
 **Sinal - módulo**</br>
 Bit de sinal:</br>
-positivo - </br>
+positivo - 0</br>
 negativo - 1</br>
 </br>
 
@@ -57,12 +57,12 @@ exemplo:</br>
 </br>
 
 **Extensão de sinal** </br>
-sistemas tem registradores múltiplos de pres de 4 bits</br>
+sistemas tem registradores múltiplos de pares de 4 bits</br>
 em 8 bits:</br>
 1 bit representa o sinal</br>
 7 bits representam o número</br>
 </br>
-no caso de um número menor que o registrador:</br>
+no caso de um **número menor que o registrador**:</br>
 número positivo: adicione 0s</br>
 número negativo: adicione 1s</br>
 
@@ -96,7 +96,7 @@ conversão de sinais</br>
 - realizar soma binária
 - desconsiderar estouro de bits
 - verificar bit de sinal do resultado
-    resultado negativo: determinar o complemento de 2
+    - resultado negativo: determinar o complemento de 2
 
 2. notação sem bit de sinal
 - representar os números em binário puro
@@ -105,9 +105,7 @@ conversão de sinais</br>
 - realizar soma binária
 - desconsiderar estouro de bits
 - verificar sinal do resultado
-    resultado negativo: determinar o complemento de 2
-
-**->COMPLEMENTAR 2 NESSE CASO SERIA ADICIONAR 1 AO INVERSO OU TIRAR 1 DO INVERSO?** 
+    - resultado negativo: determinar o complemento de 2
 
 ## Overflow aritmético
 acontece apenas quando dois números negativos ou dois positivos são somados, e sempre vão resultar em sinal e magnitude incorretas
@@ -132,11 +130,12 @@ representa números muito grandes ou muito pequenos sem aumento de bits
 
 ## Adição em BCD
 
-1. Usando a adição binária comum, come os grupos de código BCD para cada posição de dígito
+1. Usando a adição binária comum, com os grupos de código BCD para cada posição de dígito
 2. Para as posições onde a soma é menor ou igual a 9, nenhuma correção é necessária. O resultado está na forma BCD apropriada
-3. Quando a soma dos dois dígitos é maior que 9, o fator de correção 0110 deve ser adicionado para obter o resultado na forma BCD correta. Este caso sempre produz um carry para a próxima posição, seja da adição original, seja da adição de correção
+3. Quando a soma dos dois dígitos é maior que 9, o **fator de correção 0110** deve ser adicionado para obter o resultado na forma BCD correta. Este caso sempre produz um carry para a próxima posição, seja da adição original, seja da adição de correção
 
-## Representação de hexa com sinal
+## Hexa
+### Representação de hexa com sinal
 **-> ?** 
 
 ### Adição em hexa
@@ -154,6 +153,6 @@ representa números muito grandes ou muito pequenos sem aumento de bits
 - converte de volta para hexadecimal
 
 2. 
-- subtrais cada dígito de F
+- subtrai cada dígito de F
 - soma 1
 - você terá o equivalente hexadecimal do complemento a 2

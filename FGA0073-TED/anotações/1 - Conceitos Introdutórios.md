@@ -4,9 +4,9 @@
 Conjunto de dispositivos que manipulam informações lógicas ou quantidades físicas, que estão representadas digitalmente.
 
 ## Reprentação Numérica
-| Analógica | Contínua   |
+| Analógica | Digital   |
 |-----------|------------|
-| Digital   | Discreta   |
+|  Contínua  | Discreta   |
 
 ## Sistemas
 
@@ -22,9 +22,11 @@ Composto por **10 numerais ou símbolos**. </br>
 Tem valor **posicional**.
 
 > MSD-> Most Significant Digit
+
 > LSD-> Least Significant Digit
 
 | MSD |     |     |     |     |     |     | LSD |
+|-----|-----|-----|-----|-----|-----|-----|-----|
 | 2   | 7   | 4   | 5   |  ,  | 2   | 1   | 4   |
 |-----|-----|-----|-----|-----|-----|-----|-----|
 | 10^3| 10^2| 10^1| 10^0|     | 10^-1| 10^-2| 10^-3|
@@ -39,6 +41,7 @@ Tem valor **posicional**.
 - **BIT**: Binary digit
 
 | MSB |     |     |     |     |     |     | LSB |
+|-----|-----|-----|-----|-----|-----|-----|-----|
 | 1   | 0   | 1   | 0   |  ,  | 1   | 0   | 1   |
 |-----|-----|-----|-----|-----|-----|-----|-----|
 | 2^3 | 2^2 | 2^1 | 2^0 |     | 2^-1| 2^-2| 2^-3|
@@ -50,5 +53,7 @@ Tem valor **posicional**.
 - Em sistemas eletrônicos digitais, a informação binária é representada em termos da tensão (ou correntes) nos diversos circuitos
     - Na prática são representados por uma faixa de valores
     > Bit 1 → 2 a 5 volts
+
     > Tensões inválidas
+    
     > Bit 0 → 0 a 0,8 volts

@@ -37,14 +37,14 @@ Decimal | BCD
 
 ### Exemplo
 137 = 10001001 BINÁRIO
+
 137 = 0001 0011 0111 BCD
 
 ## Excesso de 3
 É a transformação do número decimal no binário correspondente, somando-se três unidades
 
-## Decimal | Excesso de 3
+Decimal | Excesso de 3
 ------- | --------
-  | ABCD
 0 | 0011
 1 | 0100
 2 | 0101
@@ -143,7 +143,7 @@ Usado para transferir informações entre computadores e dispositivos de entrada
 ### Bit de paridade
 É um bit extra anexado ao conjunto de bits de código a ser transferido de uma localidade para outra
 
-- Paridade par: o valor do bit de paridade é determinado para qe o número total de 1s conconjunto, incluindo o bit de paridade, seja um número par;
+- Paridade par: o valor do bit de paridade é determinado para que o número total de 1s no conjunto, incluindo o bit de paridade, seja um número par;
 - Paridade impar: é usado da mesma forma, mas para que o conjunto de bits incluindo o de paridade de um número impar.
 
 Quando se usa o método de paridade deve haver uma concordância entre o transmissor e o receptor entre o tipo de paridade, par ou ímpar.
