@@ -10,7 +10,7 @@
 | Aula 05 - Aritmética Digital - Parte 2 | 10/04/2024 | ✅ | ✅ | ✅ | ✅ 17/04| 01/05 |
 | Aula 06 - Portas Lógicas - Parte 1 | 12/04/2024 | ✅ | ❌ | ✅ | 24/04 | 01/05 |
 | Aula 07 - Portas Lógicas - Parte 2 | 17/04/2024 | ✅ | ✅ | ✅ | 24/04 | 01/05 |
-| Aula 08 - Simplificação de Expressões - Parte 1 | 19/04/2024 | | | | 24/04 | 01/05 |
+| Aula 08 - Simplificação de Expressões - Parte 1 | 19/04/2024 | ✅ | | | 24/04 | 01/05 |
 | Aula 09 - Simplificação de Expressões - Parte 2 | 24/04/2024 | | | | 24/04 | 01/05 |
 | Aula 10 - Projeto de Circuitos Lógicos | 26/04/2024 |
 | *FERIADO* | 01/05/2024 |
