@@ -151,11 +151,13 @@ Representação completa:
 | **!A** | 0 | 1 |
 | **A** | 1 | 1 |
 
-- Os 0s e 1s são colocados de acordo com a sua posição na tabela verdade;
+> Os 0s e 1s são colocados de acordo com a sua posição na tabela verdade;
 
 ### Simplificação
 
-- menor número possível de agrupamentos;
+- Formar somente agrupamentos multiplos de 2^n;
+- Formar o menor número de agrupamentos possíveis;
+- Cada agrupamento deve conter o maior número de elementos possíveis;
 
 #### Análise de agrupamentos
 
