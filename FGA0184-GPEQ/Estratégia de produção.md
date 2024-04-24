@@ -34,7 +34,7 @@ O que a experiência diária sugere que as operações deveriam fazer.
 
 - Muitas ideias estratégicas surgem da **experiência operacional**.
 
-### ExigÊncias do mercado
+### Exigências do mercado
 O que o posicionamento de mercado requer que as operações façam.
 
 ### Recursos de operações
