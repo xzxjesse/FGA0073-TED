@@ -282,4 +282,8 @@ AC
 
 #### Exemplo:
 
-<img src="/FGA0073-TED/imagens/exemploKARNAUGH.jpg" alt="Exemplo">
+<img src="/FGA0073-TED/imagens/exemploMAPA3.jpg" alt="Exemplo">
+
+### 4 variáveis:
+
+<img src="/FGA0073-TED/imagens/exemploMAPA4.jpg" alt="Exemplo">

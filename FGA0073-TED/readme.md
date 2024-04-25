@@ -1,4 +1,34 @@
-# Controle de conteúdo
+# FGA0073-TED
+
+## Ambientação
+senha no moodle: TED1_1_2024</br>
+
+**Metodologia:**</br>
+> slides no moodle e aulas expositivas e com exercicios em sala e casa
+
+**Avaliação:**
+> 0.4*p1+0.6*p2</br>
+->permitido A4 com anotações e assinatura</br>
+
+**Datas:**
+> p1: 02/05</br>
+simulado p2: 21/06</br>
+p2: 28/06</br>
+ps: 03/07 -> obrigatoriamente vai substituir a menor nota, todo o conteúdo do semestre</br>
+
+**Software de simulação:**
+> Circuit Maker
+
+**Revisão prova:**
+>leitura de anotações
+
+> refazer exercicios slides
+
+> fazer exercicios listas
+
+> escrever A4 pra prova
+
+## Controle de conteúdo
 
 | Aula | Data | Anotações | Aula | Exercícios | Revisão | Revisão prova |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -8,10 +38,10 @@
 | Aula 03- Códigos | 03/04/2024 | ✅ | ✅ | ✅ | ✅ 17/04 | 01/05 |
 | Aula 04 - Aritmética Digital - Parte 1 | 05/04/2024 | ✅ | ❌ | ✅ | ✅ 17/04| 01/05 |
 | Aula 05 - Aritmética Digital - Parte 2 | 10/04/2024 | ✅ | ✅ | ✅ | ✅ 17/04| 01/05 |
-| Aula 06 - Portas Lógicas - Parte 1 | 12/04/2024 | ✅ | ❌ | ✅ | 25/04 | 01/05 |
-| Aula 07 - Portas Lógicas - Parte 2 | 17/04/2024 | ✅ | ✅ | ✅ | 25/04 | 01/05 |
-| Aula 08 - Simplificação de Expressões - Parte 1 | 19/04/2024 | ✅ | ✅ | | 25/04 | 01/05 |
-| Aula 09 - Simplificação de Expressões - Parte 2 | 24/04/2024 | ✅❓ | | | 25/04 | 01/05 |
+| Aula 06 - Portas Lógicas - Parte 1 | 12/04/2024 | ✅ | ❌ | ✅ | 29/04 | 01/05 |
+| Aula 07 - Portas Lógicas - Parte 2 | 17/04/2024 | ✅ | ✅ | ✅ | 29/04 | 01/05 |
+| Aula 08 - Simplificação de Expressões - Parte 1 | 19/04/2024 | ✅ | ✅ | | 29/04 | 01/05 |
+| Aula 09 - Simplificação de Expressões - Parte 2 | 24/04/2024 | ✅ | ✅ | | 29/04 | 01/05 |
 | Aula 10 - Projeto de Circuitos Lógicos | 26/04/2024 |
 | *FERIADO* | 01/05/2024 |
 | **PROVA 1** | 03/05/2024 |
