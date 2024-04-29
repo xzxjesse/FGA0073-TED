@@ -286,4 +286,4 @@ AC
 
 ### 4 variáveis:
 
-<img src="/FGA0073-TED/imagens/exemploMAPA4.jpg" alt="Exemplo">
+<img src="/FGA0073-TED/imagens/exemploMAPA4.png" alt="Exemplo">
