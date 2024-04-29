@@ -62,3 +62,15 @@ ps: 03/07 -> obrigatoriamente vai substituir a menor nota, todo o conteúdo do s
 | *SEM AULA* | 26/06/2024 |
 | **PROVA 2** | 28/06/2024 |
 | **PROVA SUBSTITUTIVA** | 03/07/2024 |
+
+## Prova 1
+
+| conteúdo | revisão | exercicios | lista | revisão geral | folha |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| conceitos | ✅ 17/04 | ✅ 29/04 | 01/05 | 02/05 | 02/05 |
+| sistemas | ✅ 17/04 | ✅ 29/04 | 01/05 | 02/05 | 02/05 |
+| códigos | ✅ 17/04 | ✅ 29/04 | 01/05 | 02/05 | 02/05 |
+| aritmética | ✅ 17/04 |  ✅❌29/04 | 01/05 | 02/05 | 02/05 |
+| portas | ✅ 29/04 | 30/04 | 01/05 | 02/05 | 02/05 |
+| simplificação | ✅ 29/04 | 30/04 | 01/05 | 02/05 | 02/05 |
+| circuitos | ✅ 29/04 | 30/04 | 01/05 | 02/05 | 02/05 |
