@@ -32,17 +32,17 @@ ps: 03/07 -> obrigatoriamente vai substituir a menor nota, todo o conteúdo do s
 
 | Aula | Data | Anotações | Aula | Exercícios | Revisão | Lista | Revisão prova |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Aula 01 - Conceitos Introdutórios | 22/03/2024 | ✅ | ✅ | ✅ 29/04 | ✅ 17/04 | 01/05 | 02/05
-| Aula 02 - Sistemas de Numeração | 27/03/2024 | ✅ | ✅ | ✅ 29/04 | ✅ 17/04 | 01/05 | 02/05
+| Aula 01 - Conceitos Introdutórios | 22/03/2024 | ✅ | ✅ | ✅ 29/04 | ✅ 17/04 | ✅ 01/05 | 02/05
+| Aula 02 - Sistemas de Numeração | 27/03/2024 | ✅ | ✅ | ✅ 29/04 | ✅ 17/04 | ✅ 01/05 | 02/05
 | *Feriado* | 29/03/2024 |
 | Aula 03 - Códigos | 03/04/2024 | ✅ | ✅ | ✅ 29/04 | ✅ 17/04 | 01/05 | 02/05
-| Aula 04 - Aritmética Digital - Parte 1 | 05/04/2024 | ✅ | ❌ | ✅ 29/04 | ✅ 17/04| 01/05 | 02/05
-| Aula 05 - Aritmética Digital - Parte 2 | 10/04/2024 | ✅ | ✅ | ❌ 29/04 | ✅ 17/04| 01/05 | 02/05
-| Aula 06 - Portas Lógicas - Parte 1 | 12/04/2024 | ✅ | ❌ | ✅ 30/04 | ✅ 29/04 | 01/05 | 02/05
-| Aula 07 - Portas Lógicas - Parte 2 | 17/04/2024 | ✅ | ✅ | ✅ 30/04 | ✅ 29/04 | 01/05 | 02/05
-| Aula 08 - Simplificação de Expressões - Parte 1 | 19/04/2024 | ✅ | ✅ | ❌ 30/04 | ✅ 29/04 | 01/05 | 02/05
-| Aula 09 - Simplificação de Expressões - Parte 2 | 24/04/2024 | ✅ | ✅ | ✅ 30/04 | ✅ 29/04 | 01/05 | 02/05
-| Aula 10 - Projeto de Circuitos Lógicos | 26/04/2024 | ✅ | ✅ | | ✅ 29/04 | 01/05 | 02/05
+| Aula 04 - Aritmética Digital - Parte 1 | 05/04/2024 | ✅ | ❌ | ✅ 29/04 | ✅ 17/04| ✅ 01/05 | 02/05
+| Aula 05 - Aritmética Digital - Parte 2 | 10/04/2024 | ✅ | ✅ | ❌ 29/04 | ✅ 17/04| ✅ 01/05 | 02/05
+| Aula 06 - Portas Lógicas - Parte 1 | 12/04/2024 | ✅ | ❌ | ✅ 30/04 | ✅ 29/04 | ✅ 01/05 | 02/05
+| Aula 07 - Portas Lógicas - Parte 2 | 17/04/2024 | ✅ | ✅ | ✅ 30/04 | ✅ 29/04 | ✅ 01/05 | 02/05
+| Aula 08 - Simplificação de Expressões - Parte 1 | 19/04/2024 | ✅ | ✅ | ❌ 30/04 | ✅ 29/04 | ✅ 01/05 | 02/05
+| Aula 09 - Simplificação de Expressões - Parte 2 | 24/04/2024 | ✅ | ✅ | ✅ 30/04 | ✅ 29/04 | ✅ 01/05 | 02/05
+| Aula 10 - Projeto de Circuitos Lógicos | 26/04/2024 | ✅ | ✅ | ✅❌ | ✅ 29/04 | ✅ 01/05 | 02/05
 | *FERIADO* | 01/05/2024 |
 | **PROVA 1** | 03/05/2024 |
 | Aula 11- PLDS | 08/05/2024 |
@@ -67,10 +67,10 @@ ps: 03/07 -> obrigatoriamente vai substituir a menor nota, todo o conteúdo do s
 
 | conteúdo | revisão | exercicios | lista | revisão geral | folha |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| conceitos | ✅ 17/04 | ✅ 29/04 | 01/05 | 02/05 | 02/05 |
-| sistemas | ✅ 17/04 | ✅ 29/04 | 01/05 | 02/05 | 02/05 |
-| códigos | ✅ 17/04 | ✅ 29/04 | 01/05 | 02/05 | 02/05 |
-| aritmética | ✅ 17/04 |  ✅❌29/04 | 01/05 | 02/05 | 02/05 |
-| portas | ✅ 29/04 | ✅30/04 | 01/05 | 02/05 | 02/05 |
-| simplificação | ✅ 29/04 | ✅❌30/04 | 01/05 | 02/05 | 02/05 |
-| circuitos | ✅ 29/04 | 30/04 | 01/05 | 02/05 | 02/05 |
+| conceitos | ✅ 17/04 | ✅ 29/04 | ✅ 01/05 | 02/05 | 02/05 |
+| sistemas | ✅ 17/04 | ✅ 29/04 | ✅ 01/05 | 02/05 | 02/05 |
+| códigos | ✅ 17/04 | ✅ 29/04 | ✅ 01/05 | 02/05 | 02/05 |
+| aritmética | ✅ 17/04 |  ✅❌29/04 | ✅ 01/05 | 02/05 | 02/05 |
+| portas | ✅ 29/04 | ✅30/04 | ✅ 01/05 | 02/05 | 02/05 |
+| simplificação | ✅ 29/04 | ✅❌ 30/04 | 01/05 | 02/05 | 02/05 |
+| circuitos | ✅ 29/04 | ❌ 30/04 | ✅ 01/05 | 02/05 | 02/05 |
