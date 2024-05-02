@@ -13,7 +13,7 @@ Digital
 - quantidades físicas
 - informações lógicas
 
-## Sistemas de numeração
+## Conversões
 
 ### Decimal
 > multiplicar cada digito pelo seu peso
@@ -22,6 +22,22 @@ Digital
 > "jogar 21"
 
 > dividir por 2 e armazenar os restos, parte fracionária multiplicar por 2
+
+### Octal
+
+> dividir por 8 e armazenar os restos
+
+
+| Digito Octal | Equivalente Binario |
+|--------------|---------------------|
+|      0       |        000          |
+|      1       |        001          |
+|      2       |        010          |
+|      3       |        011          |
+|      4       |        100          |
+|      5       |        101          |
+|      6       |        110          |
+|      7       |        111          |
 
 ### Hexadecimal
 > dividir por 16 e armazenar os restos
@@ -45,22 +61,6 @@ Digital
 E|1110
 F|1111
 
-### Octal
-
-> dividir por 8 e armazenar os restos
-
-
-| Digito Octal | Equivalente Binario |
-|--------------|---------------------|
-|      0       |        000          |
-|      1       |        001          |
-|      2       |        010          |
-|      3       |        011          |
-|      4       |        100          |
-|      5       |        101          |
-|      6       |        110          |
-|      7       |        111          |
-
 ## Aritmética
 
 ### Binária
@@ -69,7 +69,7 @@ Adição
 >0+0=0 </br> 0+1=1 </br> 1+1=0 carry 1 </br> 1+1+1=1 carry 1
 
 Subtração
->0-0=0 </br> 0-1=0 carry 1 </br> 1-0=1 </br> 1-1=1
+>0-0=0 </br> 0-1=0 carry 1 </br> 1-0=1 </br> 1-1=0
 
 Multiplicação e Divisão
 > segue o modelo decimal
