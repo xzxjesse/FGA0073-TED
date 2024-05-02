@@ -130,10 +130,10 @@ X = Ā (ou NOT A)
 
 ## Mapa de Karnaugh
 ### 2 variáveis
-<img src="/FGA0073-TED/imagens/exemploMAPA2.png" alt="2 variáveis">
+<img src="/FGA0073-TED/imagens/resumoMAPA2.png" alt="2 variáveis">
 
 ### 3 variáveis
-<img src="/FGA0073-TED/imagens/exemploMAPA3.jpg" alt="3 variáveis">
+<img src="/FGA0073-TED/imagens/resumoMAPA3.png" alt="3 variáveis">
 
 ### 4 variáveis
-<img src="/FGA0073-TED/imagens/exemploMAPA4.png" alt="4 variáveis">
+<img src="/FGA0073-TED/imagens/resumoMAPA4.png" alt="4 variáveis">
