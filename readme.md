@@ -1,7 +1,6 @@
 # FGA0073-TED
 
 ## Ambientação
-senha no moodle: TED1_1_2024</br>
 
 **Metodologia:**</br>
 > slides no moodle e aulas expositivas e com exercicios em sala e casa
@@ -20,7 +19,7 @@ ps: 03/07 -> obrigatoriamente vai substituir a menor nota, todo o conteúdo do s
 > Circuit Maker
 
 **Revisão prova:**
->leitura de anotações
+> leitura de anotações
 
 > refazer exercicios slides
 
