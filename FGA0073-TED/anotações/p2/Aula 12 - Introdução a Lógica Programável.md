@@ -4,16 +4,16 @@
 ## Dispositivos Lógicos Programáveis (PLD)
 > são circuitos integrados programáveis pelo usuário, que possui um grande número de portas lógicas (AND, OR, NOT), flip-flops e registradores que estão ligados em um mesmo CI.
 
-### Tipos de Dispositivos Lógicos Programáveis (PLDs)
+### Dispositivos Lógicos Programáveis (PLDs)
 
 - SPLDs (Simple Programmable Logic Devices)
     - **Programmable Array Logic (PAL)**: geralmente é programável somente uma vez
     
-        <img src="/FGA0073-TED/imagens/PAL.png">
+        ![PAL](/FGA0073-TED/imagens/PAL.png)
 
     - **Generic Array Logic (GAL)**: pode ser reprogramável
     
-        <img src="/FGA0073-TED/imagens/GAL.png">
+        ![GAL](/FGA0073-TED/imagens/GAL.png)
 
     > **Macrocélulas:** lógica de saída adicional em um arranjo
 
@@ -24,7 +24,7 @@
 
     - Entradas conectadas ao LAB e saídas interconectadas a qualquer outro LAB pela PIA
 
-    <img src="/FGA0073-TED/imagens/CPLD.jpg">
+    ![CPLDs](/FGA0073-TED/imagens/CPLD.jpg)
 
 ### Field Programmable Gate Array (FPGAs)
 
@@ -45,13 +45,13 @@
 
 > Usam tecnologia volátil SRAM mas incluem memória de configuração não volátil que reconfigura o aparelho.
 
-<img src="/FGA0073-TED/imagens/FGPA.jpg">
+![FGPA](/FGA0073-TED/imagens/FGPA.jpg)
 
 ## Processo de programação
 
-<img src="/FGA0073-TED/imagens/processo_de_programação.jpg">
+![Processo de Programação](/FGA0073-TED/imagens/processo_de_programação.jpg)
 
-<img src="/FGA0073-TED/imagens/processo_de_programação_2.jpg">
+![Processo de Programação](/FGA0073-TED/imagens/processo_de_programação_2.jpg)
 
 1. Entrada do projeto
 2. Simulação funcional
