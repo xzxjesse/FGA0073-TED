@@ -38,7 +38,7 @@ x = A . B
 | 1 | 0 | 0 |
 | 1 | 1 | 1 |
 
-<img src="/FGA0073-TED/imagens/portaAND.png" alt="porta lógica AND">
+![porta lógica AND](/imagens/portaAND.png)
 
 - É a multiplicação ordinária de 0s e 1s;
 - A saída é igual a 1 quando todas as entradas forem iguais a 1;
@@ -56,7 +56,7 @@ x = A + B
 | 1 | 0 | 1 |
 | 1 | 1 | 1 |
 
-<img src="/FGA0073-TED/imagens/portaOR.png" alt="porta lógica OR">
+![porta lógica OR](/imagens/portaOR.png)
 
 - Produz o resultado 1 quando qualquer variável for igual a 1;
 - Produz o resultado 0 quando todas as variáveis forem iguais a 0;
@@ -71,7 +71,7 @@ X = Ā (ou NOT A)
 | 0 | 1 |
 | 1 | 0 |
 
-<img src="/FGA0073-TED/imagens/portaNOT.png" alt="porta lógica NOT">
+![porta lógica NOT](/imagens/portaNOT.png)
 
 > onde o pequeno círculo denota inversão
 
@@ -114,7 +114,7 @@ Inversão da porta AND
 | 1 | 0 | 1 |
 | 1 | 1 | 0 |
 
-<img src="/FGA0073-TED/imagens/portaNAND.png" alt="porta lógica NAND">
+![porta lógica NAND](/imagens/portaNAND.png)
 
 #### NOR
 Inversão da porta OR
@@ -126,7 +126,7 @@ Inversão da porta OR
 | 1 | 0 | 0 |
 | 1 | 1 | 0 |
 
-<img src="/FGA0073-TED/imagens/portaNOR.png" alt="porta lógica NOR">
+![porta lógica NOR](/imagens/portaNOR.png)
 
 ### Blocos lógicos 
 
@@ -139,7 +139,7 @@ Inversão da porta OR
 | 1 | 0 | 1 |
 | 1 | 1 | 0 |
 
-<img src="/FGA0073-TED/imagens/blocoXOR.png" alt="bloco lógico XOR">
+![bloco lógico XOR](/imagens/blocoXOR.png)
 
 - tem apenas duas entradas
 
@@ -156,7 +156,7 @@ Inversão da porta OR
 | 1 | 0 | 0 |
 | 1 | 1 | 1 |
 
-<img src="/FGA0073-TED/imagens/blocoXNOR.png" alt="bloco lógico XNOR">
+![bloco lógico XNOR](/imagens/blocoXNOR.png)
 
 - tem apenas duas entradas
 

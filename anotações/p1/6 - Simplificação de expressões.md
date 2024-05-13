@@ -76,8 +76,7 @@ O bloco lógico que executa o postulado da complementação é o **inversor**.
 
 ### Resumo
 
-<img src="/FGA0073-TED/imagens/resumoALGEBRA.png" alt="Resumo">
-
+![Resumo](/imagens/resumoALGEBRA.png)
 ## Mapa de Karnaugh
 
 ### Construção
@@ -282,8 +281,8 @@ AC
 
 #### Exemplo:
 
-<img src="/FGA0073-TED/imagens/exemploMAPA3.jpg" alt="Exemplo">
+![Exemplo](/imagens/exemploMAPA3.jpg)
 
 ### 4 variáveis:
 
-<img src="/FGA0073-TED/imagens/exemploMAPA4.png" alt="Exemplo">
+![Exemplo](/imagens/exemploMAPA4.png)

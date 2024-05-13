@@ -9,11 +9,11 @@
 - SPLDs (Simple Programmable Logic Devices)
     - **Programmable Array Logic (PAL)**: geralmente é programável somente uma vez
     
-        ![PAL](/FGA0073-TED/imagens/PAL.png)
+        ![PAL](/imagens/PAL.png)
 
     - **Generic Array Logic (GAL)**: pode ser reprogramável
     
-        ![GAL](/FGA0073-TED/imagens/GAL.png)
+        ![GAL](/imagens/GAL.png)
 
     > **Macrocélulas:** lógica de saída adicional em um arranjo
 
@@ -24,7 +24,7 @@
 
     - Entradas conectadas ao LAB e saídas interconectadas a qualquer outro LAB pela PIA
 
-    ![CPLDs](/FGA0073-TED/imagens/CPLD.jpg)
+    ![CPLDs](/imagens/CPLD.jpg)
 
 ### Field Programmable Gate Array (FPGAs)
 
@@ -45,13 +45,13 @@
 
 > Usam tecnologia volátil SRAM mas incluem memória de configuração não volátil que reconfigura o aparelho.
 
-![FGPA](/FGA0073-TED/imagens/FGPA.jpg)
+![FGPA](/imagens/FGPA.jpg)
 
 ## Processo de programação
 
-![Processo de Programação](/FGA0073-TED/imagens/processo_de_programação.jpg)
+![Processo de Programação](/imagens/processo_de_programação.jpg)
 
-![Processo de Programação](/FGA0073-TED/imagens/processo_de_programação_2.jpg)
+![Processo de Programação](/imagens/processo_de_programação_2.jpg)
 
 1. Entrada do projeto
 2. Simulação funcional
