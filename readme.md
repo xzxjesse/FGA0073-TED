@@ -48,7 +48,7 @@ ps: 03/07 -> obrigatoriamente vai substituir a menor nota, todo o conteúdo do s
 | Aula 13 - Elementos Básicos VHDL + Familiarização Vivado| 10/05/2024 | ✅ | ❌|-|
 | Aula 14 - Operadores Padrão | 10/05/2024 | ✅ |❌|-
 | Aula 15- Comandos Concorrentes | 10/05/2024 | ✅ | ❌|-
-| Aula 16 - Circuitos Somadores | 15/05/2024 |
+| Aula 16 - Circuitos Somadores | 15/05/2024 | ✅ | ✅ |
 | Aula 17 - Circuitos Lógicos MSI | 17/05/2024 |
 | Aula 18 - Circuitos Multiplexadores | 22/05/2024 |
 | Aula 19 - Circuitos DeMultiplexadores | 24/05/2024 |
