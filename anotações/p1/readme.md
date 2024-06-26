@@ -98,7 +98,7 @@ x = A . B
 | 1 | 0 | 0 |
 | 1 | 1 | 1 |
 
-<img src="/FGA0073-TED/imagens/portaAND.png" alt="porta lógica AND">
+<img src="/imagens/portaAND.png" alt="porta lógica AND">
 
 ### OR
 
@@ -111,7 +111,7 @@ x = A + B
 | 1 | 0 | 1 |
 | 1 | 1 | 1 |
 
-<img src="/FGA0073-TED/imagens/portaOR.png" alt="porta lógica OR">
+<img src="/imagens/portaOR.png" alt="porta lógica OR">
 
 ### NOT
 
@@ -122,18 +122,18 @@ X = Ā (ou NOT A)
 | 0 | 1 |
 | 1 | 0 |
 
-<img src="/FGA0073-TED/imagens/portaNOT.png" alt="porta lógica NOT">
+<img src="/imagens/portaNOT.png" alt="porta lógica NOT">
 
 ## Simplificação booleana
 
-<img src="/FGA0073-TED/imagens/resumoALGEBRA.png" alt="Resumo boole">
+<img src="/imagens/resumoALGEBRA.png" alt="Resumo boole">
 
 ## Mapa de Karnaugh
 ### 2 variáveis
-<img src="/FGA0073-TED/imagens/resumoMAPA2.png" alt="2 variáveis">
+<img src="/imagens/resumoMAPA2.png" alt="2 variáveis">
 
 ### 3 variáveis
-<img src="/FGA0073-TED/imagens/resumoMAPA3.png" alt="3 variáveis">
+<img src="/imagens/resumoMAPA3.png" alt="3 variáveis">
 
 ### 4 variáveis
-<img src="/FGA0073-TED/imagens/resumoMAPA4.png" alt="4 variáveis">
+<img src="/imagens/resumoMAPA4.png" alt="4 variáveis">
