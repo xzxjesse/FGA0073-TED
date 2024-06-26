@@ -41,10 +41,10 @@ esses 2 casos vão receber F=1
 - **Configuração básica**
     1. clock comum a todos os ff 
     2. j e k do primeiro ff em 1 
-    3. a partir do 2° a saída anterior vira CLK atual
+    3. a partir do 2°FF todas as entradas j e k serão a saída de uma AND das saídas dos FF anteriores
 
 #### Se básico
-Modulo 16
+Modulo = 2^numFF
 
 0-15
 #### Se não básica
@@ -67,29 +67,27 @@ Modulo 16
 
 *Qa é o estado anterior -> atual*
 
-***Tabela de escitação JK***
-|Qa|Q|J|K|
-|---|---|---|---|
-|0|0|0|x|
-|0|1|1|x|
-|1|0|x|1|
-|1|1|x|0|
+![FF SR negativo](/imagens/FF%20SR%20negativo.png)
 
-***Tabela de escitação D***
-|Qa|Q|D|
-|---|---|---|
-|0|0|0|
-|0|1|1|
-|1|0|0|
-|1|1|1|
+![FF JK](/imagens/FF%20JK.png)
 
-***Tabela de escitação T***
-|Qa|Q|T|
+x = A . B
+
+| A | B | X |
 |---|---|---|
-|0|0|0|
-|0|1|1|
-|1|0|1|
-|1|1|0|
+| 0 | 0 | 0 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| 1 | 1 | 1 |
+
+x = A + B
+
+| A | B | X |
+|---|---|---|
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 1 |
 
 3. Desenhar a tabela, pode ser em bin ou dec
 
@@ -100,16 +98,19 @@ Modulo 16
 3. Saída Q do FF conectado ao CLK do FF seguinte
 
 #### Se básico
-Modulo 16
-
-0-15
+1. Descobrir número que aciona a NAND
+    1. entradas da NAND = 1
+    2. FF restantes = 0
+    3. **bin formado aciona a NAND e é o Módulo e tem transição pontilhada pra ele**
+    4. os seguintes tambem ficam fora
+2. Desenhar
 
 #### Se não básica
 ##### Se tirar a NAND, é básica
 1. Descobrir número que aciona a NAND
     1. entradas da NAND = 1
     2. FF restantes = 0
-    3. **bin formado aciona a NAND e é o Módulo**
+    3. **bin formado aciona a NAND e é o Módulo e tem transição pontilhada pra ele**
 2. Avaliar cada possibilidade
 
 ## Escolha de FF para circuito
@@ -163,7 +164,7 @@ Modulo 16
 |d|1 - 1|1 - 1|1 - 0|x|0|0
 
 
-***Tabela de escitação JK***
+***Tabela de excitação JK***
 |Qa|Q|J|K|
 |---|---|---|---|
 |0|0|0|x|
@@ -171,7 +172,7 @@ Modulo 16
 |1|0|x|1|
 |1|1|x|0|
 
-***Tabela de escitação D***
+***Tabela de excitação D***
 |Qa|Q|D|
 |---|---|---|
 |0|0|0|
@@ -179,7 +180,7 @@ Modulo 16
 |1|0|0|
 |1|1|1|
 
-***Tabela de escitação T***
+***Tabela de excitação T***
 |Qa|Q|T|
 |---|---|---|
 |0|0|0|
