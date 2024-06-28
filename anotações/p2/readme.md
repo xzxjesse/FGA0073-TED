@@ -117,7 +117,7 @@ x = A + B
 ***Se o tempo de hold e de propagação forem muito próximo podemos ter problemas***
 1. Síncrono
     1. Frequência minima que deve funcionar
-    2. Frequência máxima
+    2. Analisar propagação
 
         Fmax = 1/TpropFF+TpropAND
 
@@ -126,7 +126,7 @@ x = A + B
         Tclk >= N*TpropFF+TpropAND
 2. Assíncrono
     1. Frequência minima que deve funcionar
-    2. Frequência máxima
+    2. Analisar propagação
 
         Fmax = 1/N*TpropFF
 
