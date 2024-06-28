@@ -192,13 +192,14 @@ x = A + B
 
 ### Mapa de Karnaugh
 #### 2 variáveis
-<img src="/imagens/resumoMAPA2.png" alt="2 variáveis">
+
+![2 variáveis](/imagens/resumoMAPA2.png)
 
 #### 3 variáveis
-<img src="/imagens/resumoMAPA3.png" alt="3 variáveis">
+![3 variáveis](/imagens/resumoMAPA3.png)
 
 #### 4 variáveis
-<img src="/imagens/resumoMAPA4.png" alt="4 variáveis">
+![4 variáveis](/imagens/resumoMAPA4.png)
 
 5. **Desenhar FFs**
 6. **Conectar expressões dos Mapas de Karnaugh**
